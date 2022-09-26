@@ -13,7 +13,7 @@ def pagina(request):
     return HttpResponse("<h1> Pagina nueva </h1>") 
 
 def pagina2(request):
-    return HttpResponse("<h2> Pagina nueva 2 </h2>") 
+    return HttpResponse("<h2> Pagina nueva </h2>") 
 
 def pagina3(request):
-    return HttpResponse("<h3> Pagina nueva 3 </h3>")    
+    return HttpResponse("<h3> Pagina nueva </h3>")    

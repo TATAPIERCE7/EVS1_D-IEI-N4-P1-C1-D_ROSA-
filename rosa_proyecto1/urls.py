@@ -21,5 +21,5 @@ urlpatterns = [
     path('horachile/', views.hora),
     path('textonuevo/', views.pagina),
     path('pagina2/', views.pagina2),
-    path('pagina3/', views.pagina),
+    path('pagina3/', views.pagina3),
 ]
