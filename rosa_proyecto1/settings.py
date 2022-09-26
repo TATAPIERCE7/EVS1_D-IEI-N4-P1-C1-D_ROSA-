@@ -37,7 +37,11 @@ INSTALLED_APPS = [
     'django.contrib.sessions',
     'django.contrib.messages',
     'django.contrib.staticfiles',
+<<<<<<< HEAD
     'aplicacion1',
+=======
+    'aplicacion2',
+>>>>>>> rama2
 ]
 
 MIDDLEWARE = [
